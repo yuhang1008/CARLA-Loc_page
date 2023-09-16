@@ -111,14 +111,10 @@ body {
 }
 
 .results-carousel {
-  max-width: 75%;
-  height: auto; /* maintains the aspect ratio */
   overflow: hidden;
 }
 
 .results-carousel .item {
-  max-width: 75%;
-  height: auto; /* maintains the aspect ratio */
   margin: 5px;
   overflow: hidden;
   padding: 20px;
@@ -126,8 +122,6 @@ body {
 }
 
 .results-carousel video {
-  max-width: 75%;
-  height: auto; /* maintains the aspect ratio */
   margin: 0;
 }
 
